@@ -16,7 +16,7 @@ These 3 scripts are launched simultaneously using a ROS2 launch file package.
 
 tellocontroller.py used to command the drone to travel a predefined path, with move_forward(x) being move drone x cm forward - likewise for all other directions and rotate_counter_clockwise(90) being rotate 90 degrees counter clockwise and likewise for clockwise rotation.
 
-Required Libraries:
+Required Libraries/Dependencies:
 ROS1/noetic
 ROS2/foxy
 Sounddevice
