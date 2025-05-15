@@ -1,3 +1,5 @@
+MEGHA VENKATESAM, DWARAKESH RAJESH
+
 This repository serves to provide a basic understanding of how to use this data collection framework. This repository runs in ROS2/foxy
 
 The overall data collection framework incorporates 3 python scripts that collect different types of data and processes accordingly. 
